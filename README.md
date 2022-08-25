@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io dbd-huddle](https://your-solution-url.com)
+- Solution URL: [frontendmentor.io dbd-huddle](https://www.frontendmentor.io/solutions/huddle-landing-page-VIa2hXeF2X)
 - Live Site URL: [dbd-huddle.netlify.app](https://dbd-huddle.netlify.app)
 
 ## My process
